@@ -53,6 +53,8 @@ for(var j = 0; j <= 10; j ++){
 	document.writeln(j + 2 + " : " + DiceArray[j] + "<br>");
 }
 
+
+
 document.writeln("---finished---");
 
 function rollDie(){
